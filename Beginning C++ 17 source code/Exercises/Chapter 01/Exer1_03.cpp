@@ -7,4 +7,4 @@ Int main()                                    // Should be int, not Int
 {
   std:cout << "Hello World" << std:endl       // A semicolon is missing from the end of this line
                                               // cout and endl must be prefixed with std::, not std:
-)
+)                                             // closing brace is }
