@@ -13,7 +13,7 @@ int main()
   
   size_t max_length {};                     // Longest name length
   double average_grade {};                  // First accumulates the sum of the grades, 
-                                            // to diveded by the number of grades later
+                                            // to be divided by the number of grades later
   // Data entry loop. 
   // This loop reads the name and grade for each student.
   while (true)
